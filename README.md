@@ -15,7 +15,7 @@ The project was developed through the following stages:
 
 ### 1. Training Phase (Google Teachable Machine)
 *This image displays the model training process on the Teachable Machine platform with my three defined classes.*
-<img src="Smashing Crift-Robot.png" width="500">
+<img src="Tranining Phase" width="500">
 
 ### 2. Testing Phase (Python/VS Code Output)
 *This image shows the Python script running locally and successfully predicting the class of an input image with its confidence score.*
