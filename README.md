@@ -19,5 +19,5 @@ The project was developed through the following stages:
 
 ### 2. Testing Phase (Python/VS Code Output)
 *This image shows the Python script running locally and successfully predicting the class of an input image with its confidence score.*
-![Testing Phase](insert_image_name_here.png)
+![Testing Phase](Tranining Phase)
 
