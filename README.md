@@ -15,7 +15,7 @@ The project was developed through the following stages:
 
 ### 1. Training Phase (Google Teachable Machine)
 *This image displays the model training process on the Teachable Machine platform with my three defined classes.*
-![Training Phase](./Screenshot 2026-07-10 034633.png)
+![Training Phase](./Training Phase.png)
 
 ### 2. Testing Phase (Python/VS Code Output)
 *This image shows the Python script running locally and successfully predicting the class of an input image with its confidence score.*
